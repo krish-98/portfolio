@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: muralikrishnan.vercel.app
+Token: 8b355f3b219feb4fc1927e883f4f55e9f98b982c6f5ed26558c724a6abb55285
